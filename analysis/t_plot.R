@@ -20,4 +20,4 @@ t_plot <- ggplot(data = data.frame(x = c(-3,3)), aes(x)) +
   theme_classic()
 
 # Save plot
-ggsave(filename = "graphs/t_plot.jpg", plot = normal_plot)
+ggsave(filename = "graphs/t_plot.jpg", plot = t_plot)
