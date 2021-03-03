@@ -5,6 +5,8 @@ Statistical inference concepts and terms explained using R.
 
 Juan Pablo Carreón Hidalgo
 
+The presentation for this repository is available in: [Statistical Inference with R](https://r-inthelab.net/2021/02/26/statistical-inference-with-r/)
+
 <jpch_26@outlook.com>
 
  
